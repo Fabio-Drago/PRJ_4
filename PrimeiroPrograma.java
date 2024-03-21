@@ -5,7 +5,7 @@ public class PrimeiroPrograma {
         Scanner scanner = new Scanner(System.in);
         System.out.println(">>>>>>>Menu<<<<<<<<");
         System.out.println("1 - Ver tamanho do texto");
-        System.out.println("2 - Converter texto para número");
+        System.out.println("2 - Calcular área e perímetro de um quadrado");
         System.out.println("3 - Sair");
         
         int escolha = Integer.parseInt(scanner.nextLine()); // Ler a escolha do usuário
@@ -15,14 +15,12 @@ public class PrimeiroPrograma {
             String txt = scanner.nextLine(); // Ler a linha inteira como texto
             System.out.println("Tamanho do texto: " + txt.length());
         } else if (escolha == 2) {
-            System.out.println("Digite um texto:");
-            String textoNumero = scanner.nextLine(); // Ler a linha inteira como texto
-            try {
-                int numero = Integer.parseInt(textoNumero); // Converter o texto em número
-                System.out.println("Texto convertido: " + textoNumero);
-            } catch (NumberFormatException e) {
-                System.out.println("Erro ao converter texto para número: Formato inválido!");
-            }
+            System.out.println("Digite o lado do quadrado:");
+            double lado = scanner.nextDouble(); // Ler o lado do quadrado
+            double area = lado * lado; // Calcular a área do quadrado
+            double perimetro = 4 * lado; // Calcular o perímetro do quadrado
+            System.out.println("Área do quadrado: " + area);
+            System.out.println("Perímetro do quadrado: " + perimetro);
         } else if (escolha == 3) {
             System.out.println("Terminado!");
         } else {
