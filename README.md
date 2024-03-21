@@ -9,7 +9,7 @@ A: Well, it's just a simple program that allows the user to do easy operations, 
 
 --- Menu System: Implement a menu system using switch or if-else statements to allow the user to choose different options.
 
---- Addition Functionality: Implement a function to perform addition of two numbers entered by the user.
+~--- Addition Functionality: Implement a function to perform addition of two numbers entered by the user.~
 
 --- Subtraction Functionality: Implement a function to perform subtraction of two numbers entered by the user.
 
