@@ -56,10 +56,6 @@ public class PrimeiroPrograma {
             System.out.println("Digite o segundo número");
             int numero2 = scanner.nextInt();
             int numerofinal = numero1 / numero2;
-
-            if(numero1==0) 
-                System.out.println("Nao é possivel dividir por zero");
-            else
             System.out.println("A subtraçao é: " + numerofinal);
 
         }else if(escolha==6) {
