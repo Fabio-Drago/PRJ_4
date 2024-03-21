@@ -2,7 +2,7 @@
 This is just a simple java program that i'm using to get better skills, getting better, adding new functions, etc.
 
 "What it does?"
-A: Well, it's just a simple program that allows the user to do easy operations, it has a simple menu, it's going to be more complex, for now i will use it for learning purpouses
+A: Well, it's just a simple program that allows the user to do easy operations, it has a simple menu, it's going to be more complex, for now i will use it for learning purposes
 
 💫 Here's a simple roadmap of what i must achieve or try:
 
