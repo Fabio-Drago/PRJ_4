@@ -7,17 +7,17 @@ A: Well, it's just a simple program that allows the user to do easy operations, 
 
 💫 Here's a simple roadmap of what i must achieve or try:
 
---- Menu System: Implement a menu system using switch or if-else statements to allow the user to choose different options.
+~--- Menu System: Implement a menu system using switch or if-else statements to allow the user to choose different options.~
 
 ~--- Addition Functionality: Implement a function to perform addition of two numbers entered by the user.~
 
---- Subtraction Functionality: Implement a function to perform subtraction of two numbers entered by the user.
+~--- Subtraction Functionality: Implement a function to perform subtraction of two numbers entered by the user.~
 
---- Multiplication Functionality: Implement a function to perform multiplication of two numbers entered by the user.
+~--- Multiplication Functionality: Implement a function to perform multiplication of two numbers entered by the user.~
 
---- Division Functionality: Implement a function to perform division of two numbers entered by the user. Be sure to handle division by zero.
+~--- Division Functionality: Implement a function to perform division of two numbers entered by the user. Be sure to handle division by zero.~
 
---- Area Calculation Functionality: Add functionality to calculate the area of common shapes like squares, rectangles, circles, etc.
+~--- Area Calculation Functionality: Add functionality to calculate the area of common shapes like squares, rectangles, circles, etc.~
 
 --- Volume Calculation Functionality: Add functionality to calculate the volume of common 3D shapes like cubes, cylinders, spheres, etc.
 
